@@ -1,6 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on AI automation and backend engineering projects<br><br>👯 I’m looking to collaborate on AI, data engineering, and open-source software<br><br>🤝 I’m looking for help with scalable cloud and data infrastructure<br><br>🌱 I’m currently learning data engineering, system design, and DevOps<br><br>💬 Ask me about Python, FastAPI, PostgreSQL, REST APIs, and LangGraph<br><br>⚡ Fun fact: My team placed 1st at MindHacks 2026 with Aphasia Bridge
-
+🔭 I’m currently working on AI automation and backend engineering projects<br><br>👯 I’m looking to collaborate on AI, data engineering, and open-source software<br><br>🤝 I’m looking for help with scalable cloud and data infrastructure<br><br>🌱 I’m currently learning data engineering, system design, and DevOps<br><br>💬 Ask me about Python, FastAPI, PostgreSQL, REST APIs, and LangGraph<br><br>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/abdulrahmanzrein) 
